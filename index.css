@@ -1,5 +1,5 @@
 body {
-    background-image: url("yarn.jpeg");
+    background-image: url("station.jpeg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -9,7 +9,7 @@ body {
 .container {
     background: white;
     max-width: 80%;
-    margin : 20px auto;
+    margin : 15%px auto;
     border: 3px solid black;
     border-radius: 10px;
 }
